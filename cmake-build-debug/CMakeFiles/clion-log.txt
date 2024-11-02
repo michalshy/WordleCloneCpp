@@ -1,4 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - NMake Makefiles" C:\Users\Michin\Documents\pk\projekt
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/Michin/Documents/pk/projekt/cmake-build-debug
